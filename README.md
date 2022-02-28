@@ -26,6 +26,10 @@ Some of my favorite technologies: Symfony, Doctrine, MySQL, Angular, Vue, Flutte
 
 ------
 
+[<img src='https://fury.co/images/badge/dark.png' alt='Private Repository'>](https://fury.co/f/partner)
+
+------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edezacas)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=edezacas&show_icons=true&count_private=true)
