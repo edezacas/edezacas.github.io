@@ -26,6 +26,8 @@ Some of my favorite technologies: Symfony, Doctrine, MySQL, Angular, Vue, Flutte
 
 ------
 
+#### Using [Gemfury](https://gemfury.com/) as cloud package repository simplifying deployments and deliveries
+
 [<img src='https://fury.co/images/badge/dark.png' alt='Private Repository'>](https://fury.co/f/partner)
 
 ------
