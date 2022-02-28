@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Edu!
 > a.k.a., Leunar' Da Vinc' del Llobregat
 
-<br/>
 
 #### I'm a Software engineer working in Barcelona, Spain.
 
